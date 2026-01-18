@@ -1,4 +1,4 @@
-#  Campus-RAG: official-university-info-bot
+#  Campus-RAG: Official-university-info-bot
 > **Ensuring institutional trust through grounded AI retrieval.**
 
 ##  Project Overview
