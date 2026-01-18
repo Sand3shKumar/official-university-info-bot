@@ -33,7 +33,7 @@ This project implements **Retrieval-Augmented Generation (RAG)** to ensure every
 ---
 
 ##  Technical Stack
-- **Language:** Python 3.12
+- **Language:** Python 3.10
 - **Orchestration:** LangChain
 - **Vector Database:** FAISS
 - **Data:** Official University Regulations (Text/PDF)
